@@ -1,3 +1,6 @@
+#cited from https://github.com/lixiaojieff/HGTAN
+
+
 '''A wrapper class for optimizer '''
 import numpy as np
 
